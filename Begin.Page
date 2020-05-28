@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+  <!--  Meta  -->
+  <meta charset="UTF-8" />
+  <title></title>
+  
+  <!--  Styles  -->
+  <link rel="stylesheet" href="styles/index.processed.css" media="screen">
+ <style>
+   
+   #TITLE {
+     color: white;
+     font-weight: bold;
+   }
+   
+   div.a {
+     color: CornflowerBlue;
+     text-align: left;
+   }
+   
+  </style>
+  
+  
+</head>
+<body style="background-color:black;text-align:center">
+  <div class="a">
+   <href ="https://www.cognitivemetropolis.com/">Cognitive Metropolis Home</a>
+  </div>
+   
+   <h1 id="TITLE">Cognitive Metropolis</h1>
+    
+  
+   <img src="banner-WonB_700px.jpg" alt="CGNTVlogo"> <!--style="width:128px;height:128px;" examplestyle addinl8tr whenfilefxd-->
+
+   <h2 id="TITLE">Technology for People who Think</h2>
+
+  
+ 
+ 
+  
+  <!-- Scripts -->
+  <script src="scripts/index.js"></script>
+</body>
+  
+</html>
